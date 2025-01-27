@@ -8,3 +8,6 @@ Para windows por cmd
 > mkdir "nombre del directorio"
 <br> 
 > type nul > "nombre archivo.extension"
+
+## Instalar OpenCv
+> pip install opencv-contrib-python desde -> https://pypi.org/project/opencv-contrib-python/
